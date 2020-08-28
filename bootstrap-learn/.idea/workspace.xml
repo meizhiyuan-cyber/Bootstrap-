@@ -19,9 +19,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76e3890e-3147-408a-97b8-e20313495f3a" name="Default Changelist" comment="finished works">
+    <list default="true" id="76e3890e-3147-408a-97b8-e20313495f3a" name="Default Changelist" comment="add explains">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysettings/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysettings/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +99,7 @@
       <workItem from="1598488564566" duration="87000" />
       <workItem from="1598488655667" duration="1022000" />
       <workItem from="1598573087501" duration="1556000" />
-      <workItem from="1598619946292" duration="2422000" />
+      <workItem from="1598619946292" duration="5181000" />
     </task>
     <task id="LOCAL-00001" summary="finished works">
       <created>1598488870787</created>
@@ -109,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598488870787</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add explains">
+      <created>1598624269157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598624269157</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +147,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished works" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished works" />
+    <MESSAGE value="add explains" />
+    <option name="LAST_COMMIT_MESSAGE" value="add explains" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597894355962">
@@ -156,6 +163,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598453454342" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1598624279224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598624279224" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
