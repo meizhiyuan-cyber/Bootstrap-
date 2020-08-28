@@ -10,10 +10,19 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76e3890e-3147-408a-97b8-e20313495f3a" name="Default Changelist" comment="finished works" />
+    <list default="true" id="76e3890e-3147-408a-97b8-e20313495f3a" name="Default Changelist" comment="finished works">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysettings/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysettings/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +97,8 @@
       <workItem from="1598446211379" duration="6244000" />
       <workItem from="1598485482496" duration="2382000" />
       <workItem from="1598488564566" duration="87000" />
-      <workItem from="1598488655667" duration="418000" />
+      <workItem from="1598488655667" duration="1022000" />
+      <workItem from="1598573087501" duration="1556000" />
     </task>
     <task id="LOCAL-00001" summary="finished works">
       <created>1598488870787</created>
@@ -108,7 +118,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
