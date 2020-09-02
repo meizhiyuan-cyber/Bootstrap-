@@ -73,7 +73,7 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -117,6 +117,7 @@
       <workItem from="1598573087501" duration="3666000" />
       <workItem from="1599052043820" duration="4005000" />
       <workItem from="1599056097209" duration="3000" />
+      <workItem from="1599056997439" duration="450000" />
     </task>
     <task id="LOCAL-00001" summary="finished works">
       <created>1598488870787</created>
@@ -160,7 +161,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599056062905</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add some explains">
+      <created>1599057238759</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599057238759</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add some explains">
+      <created>1599057322640</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599057322640</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,14 +215,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="595" y="280" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599052966032" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1598453454342">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1599057450641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598453454342" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599056068851">
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599057450641" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599057328380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599056068851" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599057328380" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
