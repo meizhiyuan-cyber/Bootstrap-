@@ -35,116 +35,116 @@ div.down div.touxiang > a {
 }
 /**/
 div.down div.touxiang dl {
-    position: absolute;
-    left: 100%;
-    top: 53%;
+    position: absolute;     /**/
+    left: 100%;             /**/
+    top: 53%;               /**/
 }
-
+/**/
 div.down div.touxiang dl span {
-    display: inline-block;
-    width: 14px;
-    height: 14px;
-    background-image: url("../images/timg.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
+    display: inline-block;                          /**/
+    width: 14px;                                    /**/
+    height: 14px;                                   /**/
+    background-image: url("../images/timg.jpg");    /**/
+    background-size: cover;                         /**/
+    background-repeat: no-repeat;                   /**/
 }
-
+/**/
 div.down div.touxiang i.people {
-    background: url("../images/user.jpg");
-    background-size: contain;
-    position: absolute;
-    top: 75%;
-    left: 10px;
-    width: 35px;
-    height: 35px;
+    background: url("../images/user.jpg");      /**/
+    background-size: contain;                   /**/
+    position: absolute;                         /**/
+    top: 75%;                                   /**/
+    left: 10px;                                 /**/
+    width: 35px;                                /**/
+    height: 35px;                               /**/
 }
-
+/**/
 div.login-box {
-    margin-top: 15px;
-    margin-left: 20px;
+    margin-top: 15px;       /**/
+    margin-left: 20px;      /**/
 }
-
+/**/
 div.login-box input {
-    height: 30px;
-    width: 195px;
-    border: 1px solid #d1d1d1;
-    padding-left: 10px;
-    color: #7e7e7e;
+    height: 30px;               /**/
+    width: 195px;               /**/
+    border: 1px solid #d1d1d1;  /**/
+    padding-left: 10px;         /**/
+    color: #7e7e7e;             /**/
 }
-
+/**/
 div.login-box span.first {
-    display: inline-block;
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    background: url("../images/timg.jpg") no-repeat;
-    margin-left: 172px;
-    top: 8px;
+    display: inline-block;                              /**/
+    position: absolute;                                 /**/
+    width: 20px;                                        /**/
+    height: 20px;                                       /**/
+    background: url("../images/timg.jpg") no-repeat;    /**/
+    margin-left: 172px;                                 /**/
+    top: 8px;                                           /**/
 }
-
+/**/
 div.login-box span.second {
-    display: inline-block;
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    background: url("../images/timg.jpg") no-repeat;
-    margin-left: 168px;
-    top: 34px;
+    display: inline-block;                              /**/
+    position: absolute;                                 /**/
+    width: 20px;                                        /**/
+    height: 20px;                                       /**/
+    background: url("../images/timg.jpg") no-repeat;    /**/
+    margin-left: 168px;                                 /**/
+    top: 34px;                                          /**/
 }
-
+/**/
 div.login-box label {
-    font-size: 12px;
-    color: #656565;
-    text-indent: 15px;
-    margin-top: 10px;
-    display: inline-block;
+    font-size: 12px;            /**/
+    color: #656565;             /**/
+    text-indent: 15px;          /**/
+    margin-top: 10px;           /**/
+    display: inline-block;      /**/
 }
-
+/**/
 div.login-box label.auto-login {
-    margin-left: 48px;
+    margin-left: 48px;  /**/
 }
-
+/**/
 div.login-box input.three {
-    width: 16px;
-    height: 16px;
-    margin-top: 1px;
-    position: absolute;
-    margin-left: -15px;
+    width: 16px;            /**/
+    height: 16px;           /**/
+    margin-top: 1px;        /**/
+    position: absolute;     /**/
+    margin-left: -15px;     /**/
 }
-
+/**/
 div.login-box input.four {
-    width: 16px;
-    height: 16px;
-    margin-top: 1px;
-    position: absolute;
-    margin-left: -15px;
+    width: 16px;            /**/
+    height: 16px;           /**/
+    margin-top: 1px;        /**/
+    position: absolute;     /**/
+    margin-left: -15px;     /**/
 }
-
+/**/
 div.login-box button {
-    display: block;
-    width: 195px;
-    height: 30px;
-    background-color: #16a8de;
-    color: #fff;
-    border-radius: 5px;
-    font-size: 14px;
-    font-weight: 600;
+    display: block;             /**/
+    width: 195px;               /**/
+    height: 30px;               /**/
+    background-color: #16a8de;  /**/
+    color: #fff;                /**/
+    border-radius: 5px;         /**/
+    font-size: 14px;            /**/
+    font-weight: 600;           /**/
 }
-
+/**/
 div.register {
-    position: absolute;
-    margin-top: 22px;
-    margin-left: 335px;
+    position: absolute; /**/
+    margin-top: 22px;   /**/
+    margin-left: 335px; /**/
 }
-
+/**/
 div.register a {
-    color: #2685e3;
-    display: block;
-    width: 60px;
-    font-size: 13px;
-    font-family: "微软雅黑";
+    color: #2685e3;             /**/
+    display: block;             /**/
+    width: 60px;                /**/
+    font-size: 13px;            /**/
+    font-family: "微软雅黑";     /**/
 }
-
+/**/
 div.register a.find-password {
-    margin-top: 13px;
+    margin-top: 13px;   /**/
 }
