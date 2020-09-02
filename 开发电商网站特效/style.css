@@ -1,0 +1,6 @@
+.product-grid{
+    text-align: center;             /*定义水平居中*/
+    overflow: hidden;               /*超出隐藏*/
+    position: relative;             /*定位*/
+    transition: all 0.5s ease 0s;   /*定义过渡动画*/
+}
