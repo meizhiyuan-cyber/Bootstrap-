@@ -24,7 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="76e3890e-3147-408a-97b8-e20313495f3a" name="Default Changelist" comment="add some explains">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysettings/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysettings/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +115,8 @@
       <workItem from="1598488564566" duration="87000" />
       <workItem from="1598488655667" duration="1022000" />
       <workItem from="1598573087501" duration="3666000" />
+      <workItem from="1599052043820" duration="4005000" />
+      <workItem from="1599056097209" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="finished works">
       <created>1598488870787</created>
@@ -138,7 +139,28 @@
       <option name="project" value="LOCAL" />
       <updated>1598575199782</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add some explains">
+      <created>1599052109079</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599052109079</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add some explains">
+      <created>1599052680559</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599052680559</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add some explains">
+      <created>1599056062905</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599056062905</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,14 +192,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598575651768" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1599052966026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599052966026" />
+    <state x="595" y="280" key="MultipleFileMergeDialog" timestamp="1599052966032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="595" y="280" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599052966032" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1598453454342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598453454342" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598575405449">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599056068851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598575405449" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599056068851" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
