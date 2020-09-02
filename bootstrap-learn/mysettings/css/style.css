@@ -29,57 +29,57 @@ div.down div.touxiang > a {
     height: 81px;                                       /*定义头像高度*/
     display: inline-block;                              /*定义行内块元素*/
     background-image: url("../images/touxiang.jpg");    /*定义头像图片*/
-    background-size: cover;                             /*设定图片放置方式*/
+    background-size: cover;                             /*定义图片显示方式*/
     margin-top: 20px;                                   /*定义顶部边距*/
     margin-left: 30px;                                  /*定义左边边距*/
 }
 /**/
 div.down div.touxiang dl {
-    position: absolute;     /**/
-    left: 100%;             /**/
-    top: 53%;               /**/
+    position: absolute;     /*定义绝对定位*/
+    left: 100%;             /*距左边100%*/
+    top: 53%;               /*距离顶部53%*/
 }
-/**/
+/*定义图像右下角小图标*/
 div.down div.touxiang dl span {
-    display: inline-block;                          /**/
-    width: 14px;                                    /**/
-    height: 14px;                                   /**/
-    background-image: url("../images/timg.jpg");    /**/
-    background-size: cover;                         /**/
-    background-repeat: no-repeat;                   /**/
+    display: inline-block;                          /*定义行内块元素*/
+    width: 14px;                                    /*定义宽度14px*/
+    height: 14px;                                   /*定义高度*/
+    background-image: url("../images/timg.jpg");    /*定义图片*/
+    background-size: cover;                         /*设置图片覆盖方式*/
+    background-repeat: no-repeat;                   /*设置图片不平铺*/
 }
-/**/
+/*定义图像左下角切换用户*/
 div.down div.touxiang i.people {
-    background: url("../images/user.jpg");      /**/
-    background-size: contain;                   /**/
-    position: absolute;                         /**/
-    top: 75%;                                   /**/
-    left: 10px;                                 /**/
-    width: 35px;                                /**/
-    height: 35px;                               /**/
+    background: url("../images/user.jpg");      /*定义图片*/
+    background-size: contain;                   /*定义图片显示方式*/
+    position: absolute;                         /*设置绝对定位*/
+    top: 75%;                                   /*设置距离顶部75%*/
+    left: 10px;                                 /*设置距离左边10px*/
+    width: 35px;                                /*设置宽度*/
+    height: 35px;                               /*设置高度*/
 }
 /**/
 div.login-box {
-    margin-top: 15px;       /**/
-    margin-left: 20px;      /**/
+    margin-top: 15px;
+    margin-left: 20px;
 }
 /**/
 div.login-box input {
-    height: 30px;               /**/
-    width: 195px;               /**/
-    border: 1px solid #d1d1d1;  /**/
-    padding-left: 10px;         /**/
-    color: #7e7e7e;             /**/
+    height: 30px;                   /*定义高度*/
+    width: 195px;                   /*定义宽度*/
+    border: 1px solid #d1d1d1;      /*定义边框*/
+    padding-left: 10px;             /*定义左内边距*/
+    color: #7e7e7e;                 /*定义背景色*/
 }
-/**/
+
 div.login-box span.first {
-    display: inline-block;                              /**/
-    position: absolute;                                 /**/
-    width: 20px;                                        /**/
-    height: 20px;                                       /**/
-    background: url("../images/timg.jpg") no-repeat;    /**/
-    margin-left: 172px;                                 /**/
-    top: 8px;                                           /**/
+    display: inline-block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: url("../images/timg.jpg") no-repeat;
+    margin-left: 172px;
+    top: 8px;
 }
 /**/
 div.login-box span.second {
