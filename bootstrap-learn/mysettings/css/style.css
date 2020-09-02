@@ -73,78 +73,78 @@ div.login-box input {
 }
 
 div.login-box span.first {
-    display: inline-block;
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    background: url("../images/timg.jpg") no-repeat;
-    margin-left: 172px;
-    top: 8px;
+    display: inline-block;                              /*定义行内块级元素*/
+    position: absolute;                                 /*定义绝对定位*/
+    width: 20px;                                        /*宽度*/
+    height: 20px;                                       /*定义高度*/
+    background: url("../images/timg.jpg") no-repeat;    /*定义背景图片*/
+    margin-left: 172px;                                 /*定义左外边距*/
+    top: 8px;                                           /*距离顶部8px*/
 }
 /**/
 div.login-box span.second {
-    display: inline-block;                              /**/
-    position: absolute;                                 /**/
-    width: 20px;                                        /**/
-    height: 20px;                                       /**/
-    background: url("../images/timg.jpg") no-repeat;    /**/
-    margin-left: 168px;                                 /**/
-    top: 34px;                                          /**/
+    display: inline-block;                              /*定义行内块级元素*/
+    position: absolute;                                 /*定义绝对定位*/
+    width: 20px;                                        /*定义宽度*/
+    height: 20px;                                       /*定义高度*/
+    background: url("../images/timg.jpg") no-repeat;    /*定义背景图片*/
+    margin-left: 168px;                                 /*定义左边外边距*/
+    top: 34px;                                          /*距离顶部*/
 }
 /**/
 div.login-box label {
-    font-size: 12px;            /**/
-    color: #656565;             /**/
-    text-indent: 15px;          /**/
-    margin-top: 10px;           /**/
-    display: inline-block;      /**/
+    font-size: 12px;            /*定义字体大小*/
+    color: #656565;             /*定义字体颜色*/
+    text-indent: 15px;          /*定义文本缩进*/
+    margin-top: 10px;           /*定义顶部外边距*/
+    display: inline-block;      /*定义行内块级元素*/
 }
 /**/
 div.login-box label.auto-login {
-    margin-left: 48px;  /**/
+    margin-left: 48px;  /*定义左边边距*/
 }
 /**/
 div.login-box input.three {
-    width: 16px;            /**/
-    height: 16px;           /**/
-    margin-top: 1px;        /**/
-    position: absolute;     /**/
-    margin-left: -15px;     /**/
+    width: 16px;            /*定义宽度*/
+    height: 16px;           /*定义高度*/
+    margin-top: 1px;        /*定义顶部外边距*/
+    position: absolute;     /*定义绝对定位*/
+    margin-left: -15px;     /*定义左边负外边距*/
 }
 /**/
 div.login-box input.four {
-    width: 16px;            /**/
-    height: 16px;           /**/
-    margin-top: 1px;        /**/
-    position: absolute;     /**/
-    margin-left: -15px;     /**/
+    width: 16px;            /*定义宽度*/
+    height: 16px;           /*定义高度*/
+    margin-top: 1px;        /*定义顶部外边距*/
+    position: absolute;     /*定义绝对定位*/
+    margin-left: -15px;     /*定义左边负外边距*/
 }
 /**/
 div.login-box button {
-    display: block;             /**/
-    width: 195px;               /**/
-    height: 30px;               /**/
-    background-color: #16a8de;  /**/
-    color: #fff;                /**/
-    border-radius: 5px;         /**/
-    font-size: 14px;            /**/
-    font-weight: 600;           /**/
+    display: block;             /*定义块级元素*/
+    width: 195px;               /*定义宽度*/
+    height: 30px;               /*定义高度*/
+    background-color: #16a8de;  /*定义背景颜色*/
+    color: #fff;                /*定义字体颜色*/
+    border-radius: 5px;         /*定义圆角边框*/
+    font-size: 14px;            /*定义字体大小*/
+    font-weight: 600;           /*定义字体加粗*/
 }
 /**/
 div.register {
-    position: absolute; /**/
-    margin-top: 22px;   /**/
-    margin-left: 335px; /**/
+    position: absolute; /*定义绝对定位*/
+    margin-top: 22px;   /*定义顶部外边距*/
+    margin-left: 335px; /*定义左边外边距*/
 }
 /**/
 div.register a {
-    color: #2685e3;             /**/
-    display: block;             /**/
-    width: 60px;                /**/
-    font-size: 13px;            /**/
-    font-family: "微软雅黑";     /**/
+    color: #2685e3;             /*定义字体颜色*/
+    display: block;             /*定义块级元素*/
+    width: 60px;                /*定义宽度*/
+    font-size: 13px;            /*定义字体大小*/
+    font-family: "微软雅黑";     /*定义字体*/
 }
 /**/
 div.register a.find-password {
-    margin-top: 13px;   /**/
+    margin-top: 13px;   /*定义顶部外边距*/
 }
