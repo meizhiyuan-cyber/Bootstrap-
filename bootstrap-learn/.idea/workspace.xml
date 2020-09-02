@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76e3890e-3147-408a-97b8-e20313495f3a" name="Default Changelist" comment="add some explains">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="76e3890e-3147-408a-97b8-e20313495f3a" name="Default Changelist" comment="add some explains" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,6 +116,7 @@
       <workItem from="1599052043820" duration="4005000" />
       <workItem from="1599056097209" duration="3000" />
       <workItem from="1599056997439" duration="450000" />
+      <workItem from="1599057459277" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="finished works">
       <created>1598488870787</created>
@@ -175,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599057322640</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add some explains">
+      <created>1599057466634</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599057466634</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add some explains">
+      <created>1599057728614</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599057728614</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,10 +232,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599057450641" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599057328380">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599057735390">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599057328380" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599057735390" />
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599057564711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599057564711" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
