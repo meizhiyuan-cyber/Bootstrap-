@@ -58,27 +58,27 @@
         transition: all 0.5s ease 0s;           /*定义过渡动画*/
     }
     .product-grid:hover .social{
-        opacity: 1;                             /**/
-        bottom: 20px;                           /**/
+        opacity: 1;                             /*定义透明度*/
+        bottom: 20px;                           /*定义距离底边的距离*/
     }
     .product-grid .social li{
-        display: inline-block;                  /**/
+        display: inline-block;                  /*定义行内块级元素*/
     }
     .product-grid .social li a{
-        color: #909090;                         /**/
-        font-size: 16px;                        /**/
-        line-height: 45px;                      /**/
-        text-align: center;                     /**/
-        height: 45px;                           /**/
-        width: 45px;                            /**/
-        margin: 0 7px;                          /**/
-        border: 1px solid #909090;              /**/
-        border-radius: 50px;                    /**/
-        display: block;                         /**/
-        position: relative;                     /**/
-        transition: all 0.3s ease-in-out;       /**/
+        color: #909090;                         /*定义字体颜色*/
+        font-size: 16px;                        /*定义字体大小*/
+        line-height: 45px;                      /*定义行高*/
+        text-align: center;                     /*定义水平居中*/
+        height: 45px;                           /*定义高度*/
+        width: 45px;                            /*定义宽度*/
+        margin: 0 7px;                          /*定义外边距*/
+        border: 1px solid #909090;              /*定义边框*/
+        border-radius: 50px;                    /*定义圆角*/
+        display: block;                         /*定义块级元素*/
+        position: relative;                     /*相对定位*/
+        transition: all 0.3s ease-in-out;       /*定义过度动画*/
     }
     .product-grid .social li a:hover{
-        color: #fff;                            /**/
-        background-color: #2e86de;              /**/
+        color: #fff;                            /*定义字体颜色*/
+        background-color: #2e86de;              /*定义背景颜色*/
     }
