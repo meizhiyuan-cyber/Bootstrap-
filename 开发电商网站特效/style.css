@@ -1,6 +1,84 @@
 .product-grid{
-    text-align: center;             /*定义水平居中*/
-    overflow: hidden;               /*超出隐藏*/
-    position: relative;             /*定位*/
-    transition: all 0.5s ease 0s;   /*定义过渡动画*/
+    text-align: center;                         /*定义水平居中*/
+    overflow: hidden;                           /*超出隐藏*/
+    position: relative;                         /*定位*/
+    transition: all 0.5s ease 0s;               /*定义过渡动画*/
 }
+    .product-grid .product-image{
+        overflow: hidden;                       /*超出隐藏*/
+    }
+    .product-grid .product-image img{
+        width: 100%;                            /*定义宽度*/
+        height: auto;                           /*高度自动*/
+        transition: all 0.5s ease 0s;           /*定义过渡动画*/
+    }
+    .product-grid:hover .product-image img{
+        transform: scale(1.5);                  /*定义2D转换，放大1.5倍*/
+    }
+    .product-grid .product-content{
+        padding: 12px 12px 15px 12px;           /*定义内边距*/
+        transition: all 0.5s ease 0s;           /*定义过渡动画*/
+    }
+    .product-grid:hover .product-content{
+        opacity: 0;                             /*定义透明度*/
+    }
+    .product-grid .title{
+        font-size: 20px;                        /*定义字体大小*/
+        font-weight: 600;                       /*定义字体加粗*/
+        margin: 0 0 10px;                       /*定义外边距*/
+    }
+    .product-grid .title a{
+        color: #000;                            /*定义字体颜色*/
+    }
+    .product-grid .title a:hover{
+        color: #2e86de;                         /*定义字体颜色*/
+    }
+    .product-grid .price{
+        font-size: 18px;                        /*定义字体大小*/
+        font-weight: 600;                       /*定义字体加粗*/
+        color: #2e86de;                         /*定义字体颜色*/
+    }
+    .product-grid .price span{
+        color: #999;                            /*定义字体颜色*/
+        font-size: 15px;                        /*定义字体大小*/
+        font-weight: 400;                       /*定义字体粗细*/
+        text-decoration: line-through;          /*定义穿过文本下的一条线*/
+        margin-left: 7px;                       /*定义左外边距*/
+        display: inline-block;                  /*定义行内块级元素*/
+    }
+    .product-grid .social{
+        background-color: #fff;                 /*定义背景颜色*/
+        width: 100%;                            /*定义宽度*/
+        padding: 0;                             /*定义内边距*/
+        margin: 0;                              /*定义外边距*/
+        list-style: none;                       /*去掉项目符号*/
+        opacity: 0;                             /*定义透明度*/
+        position: absolute;                     /*绝对定位*/
+        bottom: -50%;                           /*距离底边的距离*/
+        transition: all 0.5s ease 0s;           /*定义过渡动画*/
+    }
+    .product-grid:hover .social{
+        opacity: 1;                             /**/
+        bottom: 20px;                           /**/
+    }
+    .product-grid .social li{
+        display: inline-block;                  /**/
+    }
+    .product-grid .social li a{
+        color: #909090;                         /**/
+        font-size: 16px;                        /**/
+        line-height: 45px;                      /**/
+        text-align: center;                     /**/
+        height: 45px;                           /**/
+        width: 45px;                            /**/
+        margin: 0 7px;                          /**/
+        border: 1px solid #909090;              /**/
+        border-radius: 50px;                    /**/
+        display: block;                         /**/
+        position: relative;                     /**/
+        transition: all 0.3s ease-in-out;       /**/
+    }
+    .product-grid .social li a:hover{
+        color: #fff;                            /**/
+        background-color: #2e86de;              /**/
+    }
