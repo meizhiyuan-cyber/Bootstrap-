@@ -1,0 +1,37 @@
+.color1{
+    color: #00adee;
+}
+.size{
+    font-size: 20px;
+}
+.line{
+    border-bottom: 2px solid #00adee;
+    width: 100px;
+    margin: auto;
+}
+.card-header{
+    background: #00ceef;
+    color: white;
+}
+    .color2{
+        background: #e4e4e4;
+        color: #13082b;
+    }
+    .card-body img{
+        margin-bottom: 30px;
+    }
+    .card-body p{
+        font-size: 18px;
+    }
+    .row h4{
+        font-weight: 900;
+    }
+    .card{
+        min-height: 400px;
+    }
+.card{
+    transition: box-shadow 3s linear;
+}
+.card:hover{
+    box-shadow: 3px 3px 20px 0 #a4b9b4,-3px -3px 20px 0 #a4b9b4;
+}
