@@ -2,9 +2,29 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Title</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!--引入js文件-->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+    <!--Bootstrap核心JavaScript文件-->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </head>
-<body>
+<body class="container">
+    <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdown">激活按钮</button>
+        <div class="dropdown-menu">
+            <button class="dropdown-item" type="button">菜单项1</button>
+            <button class="dropdown-item" type="button">菜单项2</button>
+            <button class="dropdown-item" type="button">菜单项3</button>
+        </div>
+    </div>
+    <script>
+        $(function (){
+            $("#dropdown").dropdown();
+        })
+    </script>
 
 </body>
 </html>
